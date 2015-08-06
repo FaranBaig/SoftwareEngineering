@@ -14,7 +14,7 @@ Tools that we plan to use : GitHub, Rational Rose, Eclipse, Stove, Spices
 Languages that we plan to use : Java, C++,Python or Pascal.
 
 Group #2 : Brothers of The Night's Watch
-Team Members : Santosh Sampras, Nitesh Pathak, Shubham Kumar,(Faran Baig ?) 
+Team Members : Santosh Sampras, Nitesh Pathak, Shubham Kumar,Faran Baig
 Section : A and B
 Domains Interested in : Web Developement & Design, App Developement, Browser plugins and extensions.  
 Tools that we plan to use : GitHub, Sublime Text, Eclipse.
